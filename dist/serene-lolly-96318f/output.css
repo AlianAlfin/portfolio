@@ -592,12 +592,12 @@ video {
   margin-top: -1.5rem;
 }
 
-.-mt-\[30px\]{
-  margin-top: -30px;
+.-mt-\[285px\]{
+  margin-top: -285px;
 }
 
-.-mt-\[485px\]{
-  margin-top: -485px;
+.-mt-\[30px\]{
+  margin-top: -30px;
 }
 
 .ml-10{
@@ -620,48 +620,20 @@ video {
   margin-left: 100px;
 }
 
-.ml-\[150px\]{
-  margin-left: 150px;
-}
-
-.ml-\[200px\]{
-  margin-left: 200px;
-}
-
 .ml-\[20px\]{
   margin-left: 20px;
-}
-
-.ml-\[400px\]{
-  margin-left: 400px;
-}
-
-.ml-\[450px\]{
-  margin-left: 450px;
 }
 
 .ml-\[50px\]{
   margin-left: 50px;
 }
 
-.mr-20{
-  margin-right: 5rem;
+.ml-\[60px\]{
+  margin-left: 60px;
 }
 
-.mr-\[100px\]{
-  margin-right: 100px;
-}
-
-.mr-\[150px\]{
-  margin-right: 150px;
-}
-
-.mr-\[200px\]{
-  margin-right: 200px;
-}
-
-.mr-\[400px\]{
-  margin-right: 400px;
+.mr-\[20px\]{
+  margin-right: 20px;
 }
 
 .mt-1{
@@ -680,6 +652,10 @@ video {
   margin-top: 0.5rem;
 }
 
+.mt-20{
+  margin-top: 5rem;
+}
+
 .mt-32{
   margin-top: 8rem;
 }
@@ -688,16 +664,12 @@ video {
   margin-top: 9rem;
 }
 
-.mt-44{
-  margin-top: 11rem;
-}
-
-.mt-48{
-  margin-top: 12rem;
-}
-
 .mt-5{
   margin-top: 1.25rem;
+}
+
+.mt-52{
+  margin-top: 13rem;
 }
 
 .mt-\[100px\]{
@@ -706,34 +678,6 @@ video {
 
 .mt-\[50px\]{
   margin-top: 50px;
-}
-
-.ml-\[40px\]{
-  margin-left: 40px;
-}
-
-.mr-\[20px\]{
-  margin-right: 20px;
-}
-
-.-mt-\[285px\]{
-  margin-top: -285px;
-}
-
-.-mt-\[275px\]{
-  margin-top: -275px;
-}
-
-.mt-52{
-  margin-top: 13rem;
-}
-
-.ml-\[60px\]{
-  margin-left: 60px;
-}
-
-.mt-20{
-  margin-top: 5rem;
 }
 
 .block{
@@ -788,20 +732,16 @@ video {
   height: 2rem;
 }
 
+.h-\[250px\]{
+  height: 250px;
+}
+
 .h-\[350px\]{
   height: 350px;
 }
 
-.h-\[450px\]{
-  height: 450px;
-}
-
 .h-full{
   height: 100%;
-}
-
-.h-\[250px\]{
-  height: 250px;
 }
 
 .w-1\/2{
@@ -828,20 +768,12 @@ video {
   width: 1rem;
 }
 
-.w-\[400px\]{
-  width: 400px;
+.w-\[200px\]{
+  width: 200px;
 }
 
 .w-full{
   width: 100%;
-}
-
-.w-\[300px\]{
-  width: 300px;
-}
-
-.w-\[200px\]{
-  width: 200px;
 }
 
 .-translate-x-1\/2{
@@ -965,16 +897,6 @@ video {
   line-height: 2rem;
 }
 
-.text-6xl{
-  font-size: 3.75rem;
-  line-height: 1;
-}
-
-.text-base{
-  font-size: 1rem;
-  line-height: 1.5rem;
-}
-
 .text-lg{
   font-size: 1.125rem;
   line-height: 1.75rem;
@@ -1077,20 +999,12 @@ video {
 }
 
 @media (min-width: 768px){
-  .md\:ml-\[50px\]{
-    margin-left: 50px;
+  .md\:ml-\[220px\]{
+    margin-left: 220px;
   }
 
   .md\:ml-\[70px\]{
     margin-left: 70px;
-  }
-
-  .md\:ml-\[200px\]{
-    margin-left: 200px;
-  }
-
-  .md\:ml-\[220px\]{
-    margin-left: 220px;
   }
 
   .md\:h-96{
@@ -1109,80 +1023,80 @@ video {
 }
 
 @media (min-width: 1024px){
-  .lg\:ml-\[100px\]{
-    margin-left: 100px;
-  }
-
-  .lg\:mr-20{
-    margin-right: 5rem;
-  }
-
-  .lg\:ml-\[450px\]{
-    margin-left: 450px;
-  }
-
-  .lg\:ml-\[200px\]{
-    margin-left: 200px;
-  }
-
-  .lg\:mr-\[200px\]{
-    margin-right: 200px;
-  }
-
-  .lg\:ml-\[150px\]{
-    margin-left: 150px;
-  }
-
   .lg\:-mt-\[485px\]{
     margin-top: -485px;
-  }
-
-  .lg\:mt-48{
-    margin-top: 12rem;
-  }
-
-  .lg\:mr-\[150px\]{
-    margin-right: 150px;
-  }
-
-  .lg\:mt-32{
-    margin-top: 8rem;
   }
 
   .lg\:ml-0{
     margin-left: 0px;
   }
 
-  .lg\:mr-0{
-    margin-right: 0px;
+  .lg\:ml-\[100px\]{
+    margin-left: 100px;
   }
 
-  .lg\:ml-\[50px\]{
-    margin-left: 50px;
+  .lg\:ml-\[150px\]{
+    margin-left: 150px;
   }
 
-  .lg\:mr-\[100px\]{
-    margin-right: 100px;
+  .lg\:ml-\[200px\]{
+    margin-left: 200px;
   }
 
   .lg\:ml-\[400px\]{
     margin-left: 400px;
   }
 
+  .lg\:ml-\[450px\]{
+    margin-left: 450px;
+  }
+
+  .lg\:ml-\[50px\]{
+    margin-left: 50px;
+  }
+
+  .lg\:mr-0{
+    margin-right: 0px;
+  }
+
+  .lg\:mr-20{
+    margin-right: 5rem;
+  }
+
+  .lg\:mr-\[100px\]{
+    margin-right: 100px;
+  }
+
+  .lg\:mr-\[150px\]{
+    margin-right: 150px;
+  }
+
+  .lg\:mr-\[200px\]{
+    margin-right: 200px;
+  }
+
   .lg\:mr-\[400px\]{
     margin-right: 400px;
+  }
+
+  .lg\:mt-32{
+    margin-top: 8rem;
   }
 
   .lg\:mt-44{
     margin-top: 11rem;
   }
 
-  .lg\:h-\[450px\]{
-    height: 450px;
+  .lg\:mt-48{
+    margin-top: 12rem;
   }
 
   .lg\:h-\[350px\]{
     height: 350px;
+  }
+
+  .lg\:h-\[450px\]{
+    height: 450px;
   }
 
   .lg\:w-\[400px\]{
